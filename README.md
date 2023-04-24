@@ -1,1 +1,1 @@
-# Exploring-E-Commerce-Industry_Project-SQL
+# E-Commerce-Industry_Project-SQL
